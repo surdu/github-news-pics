@@ -30,7 +30,10 @@
 
 	"content_scripts": [
 		{
-			"matches": ["*://github.com/"],
+			"matches": [
+				"*://github.com/",
+				"*://github.com/dashboard"
+			],
 			"js": ["assets/js/addPicture.js"],
 			"css": ["assets/css/dashPix.css"]
 		}
