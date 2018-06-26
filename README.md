@@ -1,3 +1,6 @@
+# DEPRECATED
+GitHub has improved it's news feed to also include pictures now
+
 Google Chrome extension that shows author's pictures for all entries in the news feed on GitHub's dashboard
 
 ### [Install It From Here](https://chrome.google.com/webstore/detail/github-news-pics/fkdieaaoplknkhnhbfmbacphglmenppg)
