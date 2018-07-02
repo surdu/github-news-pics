@@ -1,5 +1,5 @@
 # DEPRECATED
-GitHub has improved it's news feed to also include pictures now
+GitHub has improved it's news feed to also include pictures
 
 # GitHub News Pics
 Google Chrome extension that shows author's pictures for all entries in the news feed on GitHub's dashboard
